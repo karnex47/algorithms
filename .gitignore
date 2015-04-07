@@ -2,3 +2,4 @@
 .komodotools/*.*
 *.o
 *.class
+*.exe
